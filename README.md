@@ -5,7 +5,7 @@
 
 This is the open source project for the Scroll documentation.
 
-## Developing
+## Developing Detail
 
 ```
 npm install && npm run dev
